@@ -40,7 +40,9 @@ If you want to try it locally for development purposes:
   - Load unpacked extension...
 
 ### Check if it works
-Just enter [CoinHive website](https://coinhive.com) and you will see the extension reacting. Start mining to see how the extension detects it.
+Just enter [CoinHive website](https://coinhive.com) and you will see the extension reacting. Start mining to see how the extension detects it and changes its state.
+
+> NOTE: If you have an ad blocker installed, there are high chances of it already blocking mining scripts. Hence DetectMiner won't detect any mining connection because nobody will be able to mine from your browser. Nevertheless it will detect loaded suspicious mining scripts :smile:.
 
 ## How is it different from others?
   * It does not get in between your requests and the server (does not block **any** outgoing request)
