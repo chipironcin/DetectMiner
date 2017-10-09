@@ -1,6 +1,5 @@
 # DetectMiner
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&style=flat-square)](https://twitter.com/home?status=My%20browser%20automagically%20detects%20if%20a%20page%20is%20mining%20crypto!%20Yours%20can%20probably%20do%20it%20too%20with%20DetectMiner%20extension%20goo.gl/vd2AuB%0A)
-[![Twitter URL](https://img.shields.io/badge/License-MIT-green.svg?style=flat)]()
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)]()
 
 A simple **but clever** browser extension for Google Chrome that tells you if the current page is using your computer to mine cryptocurrencies.
 
