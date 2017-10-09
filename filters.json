@@ -1,0 +1,6 @@
+{
+  "urls": ["https://coin-hive.com/lib/coinhive.min.js", "https://coin-hive.com/lib/coinhive.js"],
+  "objects": ["CoinHive", "miner"],
+  "scriptNames": ["coinhive.min.js", "coinhive.js"],
+  "connections": ["wss://.*.coin-hive.com[/]*?.*"]
+}

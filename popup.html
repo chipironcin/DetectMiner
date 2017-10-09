@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+  <head>
+    <title>DetectMiner</title>
+    <script src="popup.js"></script>
+<style>
+body {
+  background-color: #f7f7f7;
+  color: #383838;
+  font-family: sans-serif;
+  font-size: 0.8em;
+  width: 400px;
+  margin: 20px auto;
+  padding: 0px 20px;
+}
+#dataMonospace {
+    font-family: monospace;
+    padding: 5px 10px;
+    background-color: whitesmoke;
+    border: 2px solid #bcbcbc;
+    border-radius: 5px;
+    overflow-wrap: break-word;
+}
+#status {
+  padding-left: 10px;
+  border-left: 8px solid #909090;
+}
+#status.unknown {
+  border-color: #909090;
+}
+#status.warning {
+  border-color: #ffc107;
+}
+#status.safe {
+  border-color: #4caf50;
+}
+#status.alert {
+  border-color: #f44336;
+}
+.displayNone {
+  display: none;
+}
+
+</style>
+  </head>
+  <body>
+    <h1>DetectMiner</h1>
+    <h3 id="status" class="unknown">Status:<br><span id="statusValue">Unknown. Please reload the page.</span></h3>
+    <div id="suspects" class="displayNone">
+      <p>We have detected the following suspect resources:</p>
+      <div id="dataMonospace">
+        [Dummy]<br>[Content]
+      </div>
+    </div>
+  </body>
+</html>
