@@ -2,8 +2,10 @@
   "manifest_version": 2,
   "minimum_chrome_version": "58",
   "name": "DetectMiner",
-  "description": "Tells you if the current page is using your computer to mine cryptocurrencies",
-  "version": "1.0",
+  "short_name": "DetectMiner",
+  "author": "Jorge Marín",
+  "description": "Detects if the current page loaded a miner script to mine cryptocurrencies (bitcoin, monero...) on your browser and tells you visually.",
+  "version": "1.1",
   "icons": {
     "48": "assets/mainLogo_48.png",
     "128": "assets/mainLogo_128.png"
