@@ -1,5 +1,6 @@
 # DetectMiner
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)]()
+[![Share in Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&style=flat-square)](https://twitter.com/home?status=My%20browser%20automagically%20detects%20if%20a%20page%20is%20mining%20crypto!%20Yours%20can%20probably%20do%20it%20too%20with%20DetectMiner%20extension%20goo.gl%2FghEqbx)
+[![MIT license](https://img.shields.io/badge/License-MIT-green.svg?style=flat)]()
 
 A simple **but clever** browser extension for Google Chrome that tells you if the current page is using your computer to mine cryptocurrencies.
 
@@ -28,7 +29,7 @@ After ThePirateBay¹ and Showtime² started mining from user's browser without f
 ## Installation
 
 ### Consumer
-~~You can go and get right now the extension in the Chrome Extension Store~~ **(In progress)**
+You can go and get right now the [extension at the Chrome Extension Store](https://chrome.google.com/webstore/detail/detectminer/okcofhkjkchfhoolfchahamjpkkicflc?hl=en).
 
 ### Developer
 If you want to try it locally for development purposes:
@@ -42,7 +43,7 @@ If you want to try it locally for development purposes:
 Just enter [CoinHive website](https://coinhive.com) and you will see the extension reacting. Start mining to see how the extension detects it.
 
 ## How is it different from others?
-  * It does not get in between your requests and the server (does not block **any** outgoing request
+  * It does not get in between your requests and the server (does not block **any** outgoing request)
   * It does not only detect suspicious outgoing connections but also suspicious loaded Javascript, even if the source URL is a custom one that is not in the filters
 
 This means this extension will not slowdown your connection by inspecting the requests.
