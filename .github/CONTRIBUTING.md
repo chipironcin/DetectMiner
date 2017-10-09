@@ -21,9 +21,9 @@ Also, please check the [TODO section](https://github.com/cchipironcin/DetectMine
 
 ```json
 {
-  "urls": ["https://coin-hive.com/lib/coinhive.min.js", "https://coin-hive.com/lib/coinhive.js"],
+  "urls": ["https://coinhive.com/lib/coinhive.min.js", "https://coinhive.com/lib/coinhive.js"],
   "objects": ["CoinHive", "miner"],
   "scriptNames": ["coinhive.min.js", "coinhive.js"],
-  "connections": ["wss://.*.coin-hive.com[/]*?.*"]
+  "connections": ["wss://.*.coinhive.com[/]*?.*"]
 }
 ```
