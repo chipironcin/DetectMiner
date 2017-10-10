@@ -68,6 +68,7 @@ Mining scripts (if done correctly) should be understood as an **option to intrus
 - Usage of intermediate content script to help injecting a detection script in the page context (so it can read Javascript object and functions) and to help communicating data from the injected script to the background page
 
 ## Todo
+- [ ] Allow dynamic user defined filters
 - [ ] Draw a diagram of how it works to help with future development
 - [ ] Check and make it work with iframes
 - [ ] Better handle errors (mostly with data types and expected objects)
