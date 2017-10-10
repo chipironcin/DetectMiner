@@ -85,4 +85,4 @@ Contributing to DetectMiner is as easy as peeking the repo. Everyone can contrib
 
 ## License
 
-The code is available under the MIT license.
+The code is available under the Apache2.0 license.
