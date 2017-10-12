@@ -5,7 +5,7 @@
 A simple **but clever** browser extension for Google Chrome that tells you if the current page is using your computer to mine cryptocurrencies.
 
 ## Motivation
-Some Javascript mining utilities for the browser have appeared recently in the internet (for example in Github).
+Some Javascript mining utilities for the browser have been recently released as open-source tools and as a proof of concept for mining crypto using browser threads (you can find some examples using the search feature of Github).
 
 It was about time someone with huge traffic started to use them.
 
