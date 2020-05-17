@@ -29,7 +29,6 @@
    "activeTab",
    "tabs", "<all_urls>",
    "webNavigation",
-   "webRequest",
-   "storage"
-   ]
+   "webRequest"
+  ]
 }
