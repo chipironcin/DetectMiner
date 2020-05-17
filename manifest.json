@@ -5,7 +5,7 @@
   "short_name": "DetectMiner",
   "author": "Jorge Marín",
   "description": "Detects if the current page runs a miner script to mine cryptocurrencies on your browser (bitcoin, monero...) and tells you visually",
-  "version": "1.2",
+  "version": "1.3",
   "icons": {
     "48": "assets/mainLogo_48.png",
     "128": "assets/mainLogo_128.png"
